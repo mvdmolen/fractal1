@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 1.1,
   "builds": [
     { "src": "src/index.js", "use": "@now/node" },
     { "src": "src/App.js", "use": "@now/node" }
